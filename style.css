@@ -1,0 +1,37 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 300px;
+}
+
+h1 {
+    color: darkseagreen;
+}
+
+.recipe-card {
+    width: 500px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+h2,
+a {
+    text-transform: uppercase;
+}
+
+.recipe-card {
+    border: 2px solid darkseagreen;
+}
+
+
+a,
+ul {
+    color: black;
+    text-decoration: underline;
+    list-style: none;
+    font-weight: 700;
+    text-align: center;
+}
