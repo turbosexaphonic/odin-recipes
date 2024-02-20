@@ -3,8 +3,8 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-img {
-    width: 300px;
+.recipe-card img {
+    margin-bottom: -80px;
 }
 
 h1 {
@@ -15,17 +15,25 @@ h1 {
     width: 500px;
     background-color: antiquewhite;
     text-align: center;
+    border: 2px solid darkseagreen
 }
+
+ul img {
+    margin-top: -140px;
+    margin-left: -45px;
+}
+
+ul li {
+    margin-top: -50px;
+    margin-left: -45px;
+    margin-bottom: 20px;
+}
+
 
 h2,
 a {
     text-transform: uppercase;
 }
-
-.recipe-card {
-    border: 2px solid darkseagreen;
-}
-
 
 a,
 ul {
